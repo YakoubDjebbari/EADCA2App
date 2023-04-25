@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EADCA2App</string>
+    <string name="change_language">Change Language</string>
+    <string name="display_book_button">Display Books</string>
+    <string name="display_library_button">Display Libraries</string>
+    <string name="book_search_button">Book Search</string>
+    <string name="book_search_hint">Enter Book ID</string>
+    <string name="search_book_location">Search For Book Location</string>
+    <string name="library_and_book_button">Library and Book Display</string>
+</resources>

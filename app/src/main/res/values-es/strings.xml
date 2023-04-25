@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EADCA2App</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="display_book_button">Mostrar libros</string>
+    <string name="display_library_button">Mostrar bibliotecas</string>
+    <string name="book_search_button">Búsqueda de libros</string>
+    <string name="search_book_location">Buscar ubicación del libro</string>
+    <string name="library_and_book_button">Biblioteca y exhibición de libros</string>
+    <string name="book_search_hint">Identificación del libro</string>
+</resources>
